@@ -1,5 +1,5 @@
 {
-  "name": "reactproject",
+  "name": "pizza-order-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,16 +14,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MarceJua/reactProject.git"
+    "url": "git+https://github.com/MarceJua/pizza-order-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/MarceJua/reactProject/issues"
+    "url": "https://github.com/MarceJua/pizza-order-app/issues"
   },
-  "homepage": "https://github.com/MarceJua/reactProject#readme",
+  "homepage": "https://github.com/MarceJua/pizza-order-app#readme",
   "devDependencies": {
     "@tanstack/eslint-plugin-query": "^5.59.7",
     "@tanstack/react-query-devtools": "^5.59.13",
