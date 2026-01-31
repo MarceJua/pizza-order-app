@@ -1,6 +1,6 @@
 # Padre Gino's - Pizza Ordering App 🍕
 
-![Padre Gino's Demo](https://i.ibb.co/WpY1DwsK/Padre-Gino-s-Google-Chrome-2026-01-30-18-36-43.gif)
+![Padre-Gino_s-Google-Chrome-2026-01-30-18-36-43](https://github.com/user-attachments/assets/0bacefcc-e152-4136-b210-130551eefe19)
 
 ### **Key Features Demo:**
 * **Dynamic Product Catalog:** Browsing through a variety of pizzas fetched from the backend API.
